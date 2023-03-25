@@ -1,4 +1,4 @@
-//test for simple math
+//test for simple mathk
 it('adds,1+1=2',()=>{
     expect(1+1).toEqual(2)
 })
